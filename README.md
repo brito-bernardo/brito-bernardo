@@ -10,7 +10,7 @@
  - I've participated in two exchange programs to the USA.
 
 
-  ![Status](./profile-3d/profile-night-green.svg)
+  ![Status](./profile-3d-contrib/profile-night-green.svg)
   
 
   
