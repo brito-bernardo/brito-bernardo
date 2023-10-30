@@ -10,20 +10,41 @@
  - I've participated in two exchange programs to the USA.
 
 
-### Technologies
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Status](./profile-3d/profile-night-green.svg)
   
-  <br/>
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Django](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Django-333333%3Fstyle%3Dflat%26logo%3Ddjango)
 
-### Contact Me
-<a href="https://www.linkedin.com/in/bernardo-brito-8ba7301a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bernardo&20Brito-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/@bernardo96728"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bernardo%20Brito-blue?style=flat-square&logo=youtube"></a>
-<a href="bernardo_brito1@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Hotmail-Bernardo_brito1@hotmail.comblue?style=flat-square&logo=gmail"></a>  
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brito-bernardo&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brito-bernardo&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,css,html,react,next,tailwind,docker,figma,github,materialui,linux,styledcomponents,vercel,vite,bootstrap,python,django,php,laravel,mysql,sqlite,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=brito-bernardo&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
+
+
 
